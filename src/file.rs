@@ -33,7 +33,7 @@ DTSTART;TZID=Europe/Brussels;VALUE=DATE:{date}
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID=Europe/Brussels;VALUE=DATE:{date}
-URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp={postal_code}
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp={postal_code}&streetIndex=
 SUMMARY:Collecte des déchets
 DESCRIPTION: {description}
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
