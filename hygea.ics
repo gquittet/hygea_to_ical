@@ -1,0 +1,1732 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.example.com
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:b1cb1919-d322-4a04-88b6-f15aab2d90f7
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210811
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210811
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1747db06-4a39-49e4-9a14-5d79c85f8563
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190710
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190710
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e52674-5125-4da0-b48a-658187e8fe54
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210527
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210527
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c22914b-a04e-4779-8d1e-cc89391b0bd5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191009
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191009
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:84dcb536-655a-4721-9b6f-3cdce1dea0e2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210602
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210602
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2c25dc-faa3-4a8e-a2d3-b5ed936b573e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210519
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210519
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:02e5eaaa-1fb9-44cb-9e06-f8cd439ae240
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201014
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201014
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1649a8b8-36f6-4f1d-a840-ce7b9ccdc82a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191127
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191127
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:70e85d94-8e3a-4301-b336-c1e180a2c6f1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191226
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191226
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8cedfe7a-6ebc-4757-b877-2f1837fa2675
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201021
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201021
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d753372b-480b-447e-aa33-5748e243cf76
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201112
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201112
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f041b76-500c-4f9e-9877-fc49a044c66f
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210707
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210707
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3602e738-b554-43ef-a00d-198008222911
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211208
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211208
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c89db1f2-4ba2-44ec-9670-c5ecc09c9282
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200205
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200205
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7335b1a-5d05-4e3c-9d6d-c82307ede4a1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200826
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200826
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6cc69189-0317-4a64-97a1-ae5ced1ce0c0
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210512
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210512
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee5f246-fe15-4a85-8b55-aab34d3c8c5e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210609
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210609
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0ce998-b90b-4da4-ad8b-ed965b5e5a8a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210310
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210310
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:93043e83-6393-4df3-945c-53b4a3283444
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210818
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210818
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c46fd4-818a-4e9f-931d-b0cad071fce5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190220
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190220
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcdda39-a8d6-427d-837e-93a03a5d5f8e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190116
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190116
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c79afbfe-a7b2-465d-beaf-b4eb5a911e88
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210414
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210414
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ca826ba-1945-4422-b2b4-6550dde32a97
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200401
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200401
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:17d3e89e-2156-4921-add7-342aa4b8c64e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210428
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210428
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1cdda4b0-c5df-4c35-9aa2-68258e711cf6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200624
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200624
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:69a64c7e-2b26-47e9-b627-279cc42e45cb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200610
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200610
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd8d2ca-8a26-4ab6-8bf7-db0bddbfceaf
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190508
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190508
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9163d4ee-6cf8-460e-bdbb-b55132645a2d
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200812
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200812
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:53da980f-e1db-41c1-b5ff-c0c0c28d3aae
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210722
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210722
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f00f1c8f-f0ee-4588-a6ae-2ae2fd01d18e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211104
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211104
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:766e66de-e63b-4fd7-99e8-1930e3d47782
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200122
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200122
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc40e5fe-d815-4cf7-9e2c-98cac5c46e76
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190529
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190529
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9425cc22-4c84-4830-b685-e9e0b43c343a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211222
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211222
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b0f9ecc-1d29-44a8-9088-9b0226483f8e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210616
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210616
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a710705-936f-459c-b26a-aff6c621e358
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201118
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201118
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:93e2eecb-526a-4a7a-89de-f01165e5ea11
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190417
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190417
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc991ff6-7940-42a8-8078-26ccf1234e0d
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200304
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200304
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5077a09-bf3e-4c7e-a435-6c6821be0748
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200723
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200723
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e64f81a-b507-471d-83df-dab4329a90e9
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210203
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210203
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:56fb5e57-9877-4625-a999-f6684ae626db
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200617
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200617
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7031cb15-3c87-4716-a2c8-b47fdeee8a42
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211020
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211020
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2bfea1b7-ffd6-4bb9-91bb-4cd6a1a22065
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201216
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201216
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e569816a-f7b7-49dd-a9f9-0b3ef17abcc5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190123
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190123
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:521377be-ec16-4de5-a5e9-72dfc60e7864
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191030
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191030
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9814c28b-886e-4a5a-9023-f951bd407007
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191023
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191023
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:abf60603-6971-4634-bdff-34627eeb9fc5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190425
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190425
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe8d835-374a-4897-9c71-2c36c233dec5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191218
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191218
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:51b375c0-6bdb-42a0-9b6e-365b2b0b9722
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200701
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200701
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fdefd30c-b115-4283-8c71-f0770488fdd9
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200916
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200916
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:93aad247-8687-4c34-86f3-22415ec8d6f9
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201104
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201104
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:881c8401-54aa-4021-9af4-ba86ded66973
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210324
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210324
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8907d4a2-ee7f-4fe3-a1a7-7a6ee34d0c86
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210623
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210623
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8507308b-07c2-4119-99c5-886f0a7bb723
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210728
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210728
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:25ff199a-a973-49db-806e-9fd0e1c98431
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210106
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210106
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fcbcffb-174c-4458-bb8f-09e0b64baff9
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190213
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190213
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4121c0-f2c6-4004-a608-f49ce78ee64b
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190502
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190502
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8a64174-7b0c-4c58-8b99-cfdc48de351a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190814
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190814
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c2682fa0-30c2-4b89-afac-7003c0bee9ba
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191106
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191106
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a50f6073-cf9e-41a9-b4f8-f3a30d3e2b1a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190724
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190724
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:add6d0da-23da-4859-9b36-5a9ab4f72563
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191016
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191016
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:db4db7c2-c468-45ec-b91e-fdfb6d2141df
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210804
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210804
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f457473-ff3f-4e63-9279-5e97fa651465
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211124
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211124
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:285bcb9c-ee27-41b1-8711-fc4a8045ce0e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210505
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210505
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:09834571-4faa-44be-a87b-0d1cdabd2f4d
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200506
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200506
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:68524bd3-9ae4-4ae7-8208-929f9211457b
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200408
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200408
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b266c814-f91e-4129-92f3-0617fdbccd05
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210210
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210210
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:01944275-1106-4898-afdf-9e13f3b319ef
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200909
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200909
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:be8ee11f-371e-434c-9ddd-b029098b040d
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190410
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190410
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:059bda9f-09cf-471a-8ed7-969599add33c
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190828
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190828
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a2e88a-a3b2-40e8-8b77-08352516f90c
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200520
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200520
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:72da3cde-6ee0-4921-a5db-2a10ee235376
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201028
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201028
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5467ab8f-8be3-4945-8975-42850c5b14fb
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190327
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190327
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:612c759c-16ff-4745-ba89-461db8011957
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190206
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190206
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6778b0-843e-4abe-bbe7-286fd8e69eff
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210825
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210825
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed6dc33-da52-4824-9844-8ba805b04c29
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190925
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190925
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3165df26-a248-4ef5-bab3-2b22eba2ec44
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191211
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191211
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae48f8e7-05df-4198-b5f8-6bbd7a35255b
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200422
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200422
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:282a1bed-e67c-4479-a73c-52854a98471a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200513
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200513
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5dc470-dbd1-4cc2-8a06-17d162cf57e6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201209
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201209
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:35b433e1-5b4c-4841-9c70-339508dd20dc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190320
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190320
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2dc50c-e503-416a-8c30-9f11b104b588
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210421
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210421
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:13158e5a-fa73-46eb-b8d1-327af04609e4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200325
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200325
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94219459-4d1d-4e47-b456-4cf996f65a9b
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201202
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201202
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed68131-37de-4839-b2d3-3f31817c7232
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190731
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190731
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:92b63de5-47e2-4414-9c05-d0d906d11563
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190227
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190227
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cfe5d58-416c-4850-9e5f-6fe6b8ec6727
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200729
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200729
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:70c4ed74-16ae-47be-906a-cc5124d7e525
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200805
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200805
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d929169a-04a5-48fa-887f-1b14c80faa0a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190109
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190109
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ceaba2e-6e26-4fa0-8891-c69620bb37ed
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200902
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200902
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c646b51-71a5-41ca-8e31-1df4ab268961
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191120
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191120
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d812b4c-bd53-48e3-b3bc-3a7004ef3165
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210217
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210217
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10744d9b-8e2e-4679-845a-d586209c6e5f
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190918
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190918
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e985909-833c-42c9-b92b-a05a81454fac
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190717
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190717
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ee23ab-84f1-4f31-a5b6-035ed7d39429
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190904
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190904
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c473b1f-2a32-4632-8153-6b188c9a90ac
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190911
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190911
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:58a50b2e-b9a4-4360-9e8f-ad695d9cb50b
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210120
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210120
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bd1017a-e957-4699-a05d-d2b6cc5a4535
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210630
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210630
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:76bbd664-8048-4fa5-857e-6dffca55f68a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190626
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190626
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:343dd6ce-f7a1-4f91-a825-604b357b2dbf
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201230
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201230
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:46b38616-5ec9-4437-b740-45d518be4e27
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191205
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191205
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b22bd4a4-851d-40f1-866c-44f469925c89
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210408
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210408
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e99777cd-a052-4715-b04f-b3bf38ae4b14
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210915
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210915
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed5480c0-c62d-49b7-8f29-06bac3c010dc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190807
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190807
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7066f1c0-27d7-4e1f-b1ff-9956967af0f3
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190522
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190522
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d61bf0c-acc9-4c63-9d50-0c035704da52
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190613
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190613
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5620e90-30a3-4bff-a95f-4fbd8e170aa0
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190605
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190605
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c50b02c9-2120-4025-a1fc-a0f20132030f
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200527
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200527
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8eb1ea4-2110-4658-ad71-6e160c3356d4
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210331
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210331
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc3cbc96-1668-4c0d-ac69-1523a07c6c4a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200715
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200715
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c53b818c-b4e2-41ee-99b1-ca1d8dd91a33
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190313
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190313
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:35937e06-8384-4cf7-a222-f66711be12ef
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190130
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190130
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:96242109-06e3-433a-889c-1fb8dec80262
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211006
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211006
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7219a84c-b3d2-430d-beb0-f887bcf15eb0
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211117
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211117
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:54545892-0830-471c-83cc-f9a6dec4dc00
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190103
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190103
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:abb6a98e-f21c-49c8-953a-3fd37125926a
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200115
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200115
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7cdb225-13cf-4ce5-8306-657c01dc6f71
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190619
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190619
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ce46d2-11d2-415d-9376-a892b7364a1c
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210127
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210127
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4949d63-3046-4635-8012-af1f6e940c44
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200604
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200604
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:09dd8809-116c-4705-a6b8-cc46659a72f2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210929
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210929
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0bda2f57-e57e-4992-afd6-ef1ef97e3942
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211027
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211027
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f19c8870-9b14-41e6-ad43-a956f5260065
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210303
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210303
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0664070-7eb7-4a5a-99df-dda322e1fa0f
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200108
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200108
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:69242c39-5a30-4e60-8498-2f305c524d18
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190515
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190515
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c46bda-2183-4daf-bf7b-fb04703ae0bc
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200708
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200708
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2274639c-48cf-4fdc-8bd7-fcd5c96a8002
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200923
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200923
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a86060c-89fc-4bcd-af32-c4b69d2280f2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200311
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200311
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:decc470a-450f-4c76-b50d-874491ec7c8e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200318
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200318
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b34e332-c7da-4753-b600-3dc2cb63ad06
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201125
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201125
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f924d21-fe4d-4e89-a99b-865cb477f745
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201223
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201223
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d156ae95-eba1-460c-bfcd-e1604b570660
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210224
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210224
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d59187d-ae43-4aad-94d5-df2e34055173
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210922
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210922
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:912775aa-e20f-4948-9974-4223ac7077a2
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210901
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210901
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7ad33e-9198-4b8b-802b-521273ec54f0
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200212
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200212
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb09451-1d12-44c2-9ebb-9269f7055582
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211215
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211215
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd686e7-379b-4042-83a2-5574d0c8492c
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200226
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200226
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a93b9ca5-c1f3-4219-8227-184daaf14843
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200429
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200429
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e10033d9-dd7a-434a-ab66-4d8c770b3980
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191114
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191114
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7027958-b00d-4fb2-958b-2743c16bd605
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211229
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211229
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:818bc110-3c21-4c2a-83e8-2f73eacf5cc1
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20201007
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20201007
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ef0532-df79-4610-a590-3ee27748f39d
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190821
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190821
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:68f572df-ba07-49c8-834f-525ba32c5de0
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200416
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200416
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e904d27-46f0-4fa2-aa04-7f93ec922523
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210714
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210714
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3dd1bbb-b015-475b-ac28-f7628098ebed
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190403
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190403
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3aa036e3-7b00-4f66-83ad-602fea0d521d
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200219
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200219
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7c59a9-cf31-4912-b941-2cc77ed226a5
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210113
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210113
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6bfbe6-267e-4ad0-8c6e-c1570312ed6c
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211110
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211110
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f29f7f2-3f9c-4978-8c33-036eab724186
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190703
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190703
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:54888094-7c24-4785-87b2-05c86db4ece0
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20190306
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20190306
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:30346ee0-c1e0-425f-80f1-3e8cefa36605
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210908
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210908
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b092ca47-672c-4149-b327-6df3a5702f55
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20210317
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20210317
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05325207-a311-44f3-81b0-05ff7457601b
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200930
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200930
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e90bf64-3f4b-48b6-944a-b23c74895574
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20191002
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20191002
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e9ed3b-9864-4591-ba1a-94c2c21412f6
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200129
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200129
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa20075d-c03c-45e8-afa1-7cf2678ca325
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200102
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200102
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:967fcb4d-abe8-4603-9f99-56f36defab80
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211013
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211013
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6dcce642-b556-4a1d-9e11-6e1d74d4c7db
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20211201
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20211201
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b336aa4d-fbbc-461a-a100-689b7b57491e
+DTSTART;TZID=Europe/Brussels;VALUE=DATE:20200819
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Brussels;VALUE=DATE:20200819
+URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp=7390&streetIndex=
+SUMMARY:Collecte des déchets
+DESCRIPTION: Collecte des sacs blancs
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+END:VEVENT
+END:VCALENDAR
