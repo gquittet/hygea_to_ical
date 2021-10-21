@@ -48,7 +48,6 @@ impl CalendarHTTPClient {
     }
 
     pub fn to_ical(
-        &self,
         data: Vec<CalendarEntry>,
     ) -> Result<HashMap<String, &'static str>, chrono::ParseError> {
         let mut calendar_entries: HashMap<String, &'static str> = HashMap::new();

@@ -21,7 +21,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let calendar = calendar_client.get(config, timeframe).await?;
 
-    let ical_entries = calendar_client.to_ical(calendar)?;
+    let ical_entries = CalendarHTTPClient::to_ical(calendar)?;
 
     ical_to_file("hygea.ics", ical_entries, config).await?;
 
