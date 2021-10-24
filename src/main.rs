@@ -2,7 +2,7 @@ use std::env;
 
 use chrono::{Datelike, Utc};
 
-use hygea_to_ical_rust::{
+use hygea_to_ical::{
     calendar::CalendarHTTPClient, config::parse_config, file::ical_to_file,
     timeframe::generate_timeframe,
 };

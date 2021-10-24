@@ -3,7 +3,7 @@
 ## How to use
 
 ```bash
-./hygea_to_ical_rust POSTAL_CODE
+./hygea_to_ical POSTAL_CODE
 ```
 
 where `POSTAL_CODE` is a postal code managed by Hygea in Belgium.
@@ -11,5 +11,5 @@ where `POSTAL_CODE` is a postal code managed by Hygea in Belgium.
 ### Example
 
 ```bash
-./hygea_to_ical_rust 7000
+./hygea_to_ical 7000
 ```
