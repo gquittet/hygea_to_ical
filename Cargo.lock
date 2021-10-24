@@ -234,7 +234,7 @@ checksum = "6456b8a6c8f33fee7d958fcd1b60d55b11940a79e63ae87013e6d22e26034440"
 
 [[package]]
 name = "hygea_to_ical"
-version = "0.1.3"
+version = "0.1.4"
 dependencies = [
  "chrono",
  "openssl",
