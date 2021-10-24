@@ -35,13 +35,13 @@ TRANSP:OPAQUE
 DTEND;TZID=Europe/Brussels;VALUE=DATE:{date}
 URL:https://www.hygea.be/votre-calendrier-de-collecte.html?cp={postal_code}&streetIndex=
 SUMMARY:Collecte des déchets
-DESCRIPTION: {description}
+DESCRIPTION:{description}
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 END:VEVENT
 "###,
                     uuid = Uuid::new_v4(),
                     date = date,
-                    description = description,
+                    description = description.replace("\n", "\\n"),
                     postal_code = config.postal_code,
                 )
                 .as_bytes(),
