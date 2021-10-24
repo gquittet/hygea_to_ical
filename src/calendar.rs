@@ -83,7 +83,11 @@ impl CalendarHTTPClient {
                     DateTime::parse_from_rfc3339(&entry.start)?
                         .format("%Y%m%d")
                         .to_string(),
-                    "Collecte des sacs blancs, des sacs bleus (PMC) et papiers cartons",
+                    r###"Collecte des :
+- Sacs blancs
+- Sacs PMC
+- Cartons
+"###,
                 );
 
                 continue;
