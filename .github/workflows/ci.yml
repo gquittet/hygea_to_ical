@@ -11,7 +11,7 @@ on:
       - 'v*.*.*'
 
 jobs:
-  style:
+  lint:
     name: Check Style
     runs-on: ubuntu-latest
     steps:
@@ -33,9 +33,10 @@ jobs:
           args: --all -- --check
 
 
+
   test:
     name: Test
-    needs: [style]
+    needs: [lint]
     runs-on: ubuntu-latest
 
     strategy:
@@ -77,14 +78,29 @@ jobs:
         with:
           command: test
           args: --benches ${{ matrix.features }}
+
   deploy:
     name: deploy
-    needs: [test]
+    needs:
+      - lint
+      - test
     if: startsWith(github.ref, 'refs/tags/')
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        target: [x86_64-pc-windows-gnu x86_64-unknown-linux-gnu]
+        include:
+          - os: macos-latest
+            target: x86_64-apple-darwin
+            suffix: ''
+            platform: macos-x86_64
+          - os: ubuntu-latest
+            target: x86_64-unknown-linux-gnu
+            suffix: ''
+            platform: linux-x86_64
+          - os: windows-latest
+            target: x86_64-pc-windows-msvc
+            suffix: .exe
+            platform: windows-x86_64
     steps:
       - name: Checkout
         uses: actions/checkout@v1
@@ -93,22 +109,21 @@ jobs:
         with:
           toolchain: stable
           profile: minimal
+          components: rust-std
           override: true
           target: ${{ matrix.target }}
 
       - name: Build target
         uses: actions-rs/cargo@v1
         with:
-          use-cross: true
+          use-cross: false
           command: build
           args: --release --target ${{ matrix.target }}
 
       - name: Package
         shell: bash
         run: |
-          cd target/${{ matrix.target }}/release
-          tar czvf ../../../hygea_to_ical-${{ matrix.target }}.tar.gz hygea_to_ical
-          cd -
+          mv target/${{ matrix.target }}/release/hygea_to_ical${{ matrix.suffix }} hygea_to_ical-${{ matrix.platform }}${{ matrix.suffix }}
       - name: Publish
         uses: softprops/action-gh-release@v1
         # TODO: if any of the build step fails, the release should be deleted.
