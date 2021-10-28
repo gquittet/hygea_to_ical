@@ -128,10 +128,10 @@ impl Calendar {
                         .format("%Y%m%d")
                         .to_string(),
                     r###"Collecte des :
-    - Sacs blancs
-    - Sacs PMC
-    - Cartons
-    "###,
+- Sacs blancs
+- Sacs PMC
+- Cartons
+"###,
                 );
 
                 continue;
