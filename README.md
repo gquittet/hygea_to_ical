@@ -19,13 +19,24 @@ the Mons-Borinage-Centre region.*
 ## How to use
 
 ```bash
-./hygea_to_ical POSTAL_CODE
+./hygea_to_ical POSTAL_CODE <STREET_NAME (optional)>
 ```
 
 where `POSTAL_CODE` is a postal code managed by Hygea in Belgium.
 
+### Help
+
+```bash
+./hygea_to_ical --help
+```
+
+
 ### Example
 
 ```bash
-./hygea_to_ical 7000
+./hygea_to_ical 7340
+```
+
+```bash
+./hygea_to_ical 7000 "rue de nimy"
 ```
