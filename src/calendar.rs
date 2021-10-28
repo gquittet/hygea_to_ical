@@ -1,47 +1,32 @@
-use std::collections::HashMap;
+use std::{collections::HashMap, process};
 
-use crate::{config::Config, timeframe::Timeframe};
+use crate::{
+    config::Config,
+    hygea::{CalendarResult, HygeaApiClient, PostalCodeResult},
+    timeframe::Timeframe,
+};
 
 use chrono::{DateTime, NaiveDateTime};
-use serde::{Deserialize, Serialize};
 
-#[derive(Serialize, Deserialize, Debug)]
-#[serde(rename_all = "camelCase")]
-pub struct CalendarEntry {
-    pub title: String,
-    pub class_name: String,
-    pub start: String,
+pub struct Calendar {
+    hygea_api_client: HygeaApiClient,
 }
 
-pub struct CalendarHTTPClient {
-    client: reqwest::Client,
-    uri: String,
-}
-
-impl CalendarHTTPClient {
-    pub fn new() -> CalendarHTTPClient {
-        CalendarHTTPClient {
-            client: reqwest::Client::new(),
-            uri: "https://www.hygea.be/displaycalws.html".to_string(),
+impl Calendar {
+    pub fn new() -> Calendar {
+        Calendar {
+            hygea_api_client: HygeaApiClient::new(),
         }
     }
 
     pub async fn get(
         &self,
-        config: Config,
+        postal_code: u16,
         timeframe: Timeframe,
-    ) -> Result<Vec<CalendarEntry>, reqwest::Error> {
-        let data: Vec<CalendarEntry> = self
-            .client
-            .get(&self.uri)
-            .query(&[
-                ("street", config.postal_code.to_string()),
-                ("start", timeframe.start.to_string()),
-                ("end", timeframe.end.to_string()),
-            ])
-            .send()
-            .await?
-            .json::<Vec<CalendarEntry>>()
+    ) -> Result<Vec<CalendarResult>, reqwest::Error> {
+        let data: Vec<CalendarResult> = self
+            .hygea_api_client
+            .get_calendar(postal_code, timeframe.start, timeframe.end)
             .await?
             .into_iter()
             .filter(|entry| {
@@ -61,8 +46,67 @@ impl CalendarHTTPClient {
         Ok(data)
     }
 
+    pub async fn check_postal_code(
+        &self,
+        config: &Config,
+    ) -> Result<PostalCodeResult, reqwest::Error> {
+        let postal_codes = self
+            .hygea_api_client
+            .check_postal_code(config.postal_code)
+            .await?;
+
+        match postal_codes.len() {
+            0 => {
+                println!("No postal code found with the given one.");
+                process::exit(1);
+            }
+            1 => Ok(postal_codes[0].clone()),
+            _ => {
+                println!("Write your postal code correctly!");
+                let mut postal_codes_found = postal_codes
+                    .into_iter()
+                    .map(|pc| pc.value)
+                    .collect::<Vec<String>>();
+                postal_codes_found.sort();
+                println!("We found many results corresponding to the given one:");
+                println!("- {}", postal_codes_found.join("\n- "));
+                process::exit(1);
+            }
+        }
+    }
+
+    pub async fn check_street(
+        &self,
+        postal_code: u16,
+        street: String,
+    ) -> Result<u16, reqwest::Error> {
+        let streets = self
+            .hygea_api_client
+            .check_street(postal_code, street)
+            .await?;
+
+        match streets.len() {
+            0 => {
+                println!("No street found with the given one.");
+                process::exit(1);
+            }
+            1 => Ok(streets[0].value),
+            _ => {
+                println!("Write street name correctly!");
+                let mut streets_found = streets
+                    .into_iter()
+                    .map(|street| street.label)
+                    .collect::<Vec<String>>();
+                streets_found.sort();
+                println!("we found many results corresponding to the given one:");
+                println!("- {}", streets_found.join("\n- "));
+                process::exit(1);
+            }
+        }
+    }
+
     pub fn to_ical(
-        data: Vec<CalendarEntry>,
+        data: Vec<CalendarResult>,
     ) -> Result<HashMap<String, &'static str>, chrono::ParseError> {
         let mut calendar_entries: HashMap<String, &'static str> = HashMap::new();
 
@@ -84,10 +128,10 @@ impl CalendarHTTPClient {
                         .format("%Y%m%d")
                         .to_string(),
                     r###"Collecte des :
-- Sacs blancs
-- Sacs PMC
-- Cartons
-"###,
+    - Sacs blancs
+    - Sacs PMC
+    - Cartons
+    "###,
                 );
 
                 continue;
