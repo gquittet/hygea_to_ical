@@ -15,6 +15,7 @@ categories = ["command-line-utilities"]
 
 [dependencies]
 chrono = "0.4"
+clap = "3.0.0-beta.5"
 openssl = { version = "0.10", features = ["vendored"] }
 reqwest = { version = "0.11", features = ["json"] }
 serde = { version = "1.0", features = ["derive"] }
