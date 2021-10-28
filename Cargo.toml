@@ -2,6 +2,14 @@
 name = "hygea_to_ical"
 version = "0.1.5"
 edition = "2018"
+authors = ["Guillaume Quittet <guillaume.quittet@gmail.com>"]
+license = "MIT"
+description = "A tool to generate ICS file from Hygea API"
+readme = "README.md"
+homepage = "https://github.com/gquittet/hygea_to_ical"
+repository = "https://github.com/gquittet/hygea_to_ical"
+keywords = ["cli", "hygea", "ical", "ics"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
