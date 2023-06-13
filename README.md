@@ -2,6 +2,15 @@
 
 [![CI](https://github.com/gquittet/hygea_to_ical/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gquittet/hygea_to_ical/actions/workflows/ci.yml)
 
+
+## Discontinued ⚠️
+
+New project: https://github.com/gquittet/recycle-cli
+
+The old Hygea API has been migrated to the Recycle one since 2022.
+
+So this application will not work after the 31st December 2021.
+
 ## Goal
 
 Hygea provides a calendar via PDF and an application called
